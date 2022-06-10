@@ -19,7 +19,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-HellBot/HellBot/stargazers)
 ![Repo Size](https://img.shields.io/github/repo-size/The-HellBot/HellBot?&style=flat-square&logo=github)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
-[![GitHub license](https://img.shields.io/github/license/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-HellBot/HellBot/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-HellBot/HellBotq/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
 ![Branch](https://img.shields.io/badge/Branch-Master-orange)
 ![GitHub language count](https://img.shields.io/github/languages/count/The-HellBot/HellBot?color=Pink&label=Language&style=flat-square)
